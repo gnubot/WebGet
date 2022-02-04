@@ -28,7 +28,7 @@ jobs:
         with:
           r-version: ${{ matrix.r-version }}
       - name: Install dependencies
-        run: ./dependencies.r
+        run: R ./dependencies.r
           
         
       - name: Check
