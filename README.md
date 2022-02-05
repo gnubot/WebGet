@@ -7,5 +7,5 @@ The implementation to download files from the Web, in a short time.
 
 Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.
 
-For GnuBot use only.
+For GnuBot use only. Download [the other root version](https://github.com/Tyler887/WebGet) for other use cases.
 
