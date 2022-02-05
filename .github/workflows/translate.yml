@@ -33,7 +33,10 @@ jobs:
           node-version: 16.x
 
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
-
+      - shell: pwsh
+        run: |
+          $r = Get-Random -Max 10 -Min 3
+          Start-Sleep $r
       - name: Adding README - ${{ matrix.lang }}
 
         uses: dephraiim/translate-readme@main
