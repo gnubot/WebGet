@@ -13,4 +13,4 @@ I assume **no warranty** for any **copyrighted material** downloaded on WebGet.
 
 I usally recommend downloading freely licensed files only.
 
-Learn more about WebGet [here](https://github.com/Tyler887/WebGet/wiki).
+Learn more about WebGet [here](https://github.com/Tyler887/WebGet/wiki/WebGet).
