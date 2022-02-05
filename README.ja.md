@@ -4,9 +4,9 @@
 
 短時間でWebからファイルをダウンロードするための実装。
 
-Rで書かれ、完全にシンプル。短時間で、簡単にできます。 WebGetを使用して
-Webから任意のファイルをダウンロードします。
+Written in R, complete simple. It takes a short time, simply good. Use WebGet to
+download any file from the Web.
 
-私が想定し**無保証** for any **著作権で保護された資料** downloaded on WebGet.
-I recommend that you only download files licensed under a free license, like
-CC BY-SA.
+私が想定し**無保証**任意の**copyrighted material**WebGetにダウンロードされました。
+無料ライセンスでライセンスされたファイルのみをダウンロードすることをお勧めします。
+CCBY-SA。
