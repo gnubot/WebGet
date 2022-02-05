@@ -6,8 +6,8 @@
 
 短時間でWebからファイルをダウンロードするための実装。
 
-Rで書かれ、完全にシンプル。短時間で、簡単にできます。 WebGetを使用して、ワールドワイドウェブからファイルを取得します。
+Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.
 
-私が想定し**無保証**任意の**著作権で保護された資料**WebGetにダウンロードされました。
+私が想定し**無保証**任意の**著作権で保護された資料** downloaded on WebGet.
 
 私は通常、無料でライセンスされたファイルのみをダウンロードすることをお勧めします。
