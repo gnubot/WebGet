@@ -19,7 +19,7 @@ jobs:
           $OldContent = Get-Content ./CHANGELOG
           echo "$OldContent`n$GITHUB_SHA - diff: https://github.com?Tyler887/WebGet/commit/main/$GITHUB_SHA" > ./CHANGELOG
       - run: |
-         git add ./README.md
+         git add ./CHANGELOG
          git commit -m "change $GITHUB_SHA"
       - run: |
           git pull https://github.com/${{github.repository}}.git
