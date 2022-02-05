@@ -13,4 +13,6 @@ Rで書かれ、完全にシンプル。短時間で、簡単にできます。 
 
 私が想定し**無保証**任意の**著作権で保護された資料**WebGetにダウンロードされました。
 
-私は通常、無料でライセンスされたファイルのみをダウンロードすることをお勧めします。
+I usally recommend downloading freely licensed files only.
+
+WebGetの詳細[ここ](https://github.com/Tyler887/WebGet/wiki)。
