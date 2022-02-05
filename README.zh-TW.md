@@ -8,4 +8,4 @@
 
 用 R 編寫，非常簡單。時間很短，很好。使用 WebGet 從萬維網檢索文件。
 
-For GnuBot use only. Download [另一個根版本](https://github.com/Tyler887/WebGet)對於其他用例。
+僅供 GnuBot 使用。下載[另一個根版本](https://github.com/Tyler887/WebGet)對於其他用例。
