@@ -31,4 +31,4 @@
         git clone https://github.com/Tyler887/WebGet.git
 2.  安裝 R：
     -   基於 Apache 或非鏡像：[HTTPS://傳染.日-project.org/斌](https://cran.r-project.org/bin)
-    -   鏡像：[HTTPS://傳染.日-project.org/mirrors.HTML](https://cran.r-project.org/mirrors.html)
+    -   鏡像：<https://cran.r-project.org/mirrors.html>
