@@ -17,4 +17,4 @@ Learn more about WebGet [here](https://github.com/Tyler887/WebGet/wiki/WebGet).
 ## Requirements
 * [R](https://r-project.org)
 ## Exit codes
-If R returns a non-zero exit code, it is probably that the server returned a non-200 HTTP response code. To check the response code, try looking in your console. If it's 200, then the problem is generic and it is something wrong with WebGet, so you should report it at [this page](https://github.com/Tyler887/WebGet/issues).
+If R returns a non-zero exit code, it is probably that the server returned a non-200 HTTP response code. To check the response code, try looking in your console. If it's HTTP 200 + exit code != 0, then the problem is generic and it is something wrong with WebGet, so you should report it using [this page](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
