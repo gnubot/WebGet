@@ -9,7 +9,7 @@ Lire cette page en :[Japon](README.ja.md),[Espagnol](README.es.md),[Chinois simp
 
 La mise en œuvre pour télécharger rapidement des fichiers à partir du Web, en peu de temps.
 
-Written in R, complete simple. It takes a short time, simply good. Use WebGet to doenload files from the world wide web.
+Écrit en R, complet simple. Cela prend peu de temps, tout simplement bon. Utilisez WebGet pour télécharger des fichiers à partir du World Wide Web.
 
 je suppose**Aucune garantie**pour toute**Matériel protégé par le droit d'auteur**téléchargé sur WebGet.
 
@@ -31,4 +31,4 @@ Si R renvoie un code de sortie non nul, il est probable que le serveur ait renvo
         git clone https://github.com/Tyler887/WebGet.git
 2.  Installez R :
     -   Basé sur Apache ou non mis en miroir :<https://cran.r-project.org/bin>
-    -   Mirrored: <https://cran.r-project.org/mirrors.html>
+    -   En miroir :<https://cran.r-project.org/mirrors.html>
