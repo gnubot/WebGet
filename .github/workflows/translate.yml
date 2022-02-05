@@ -13,8 +13,8 @@ on:
 jobs:
   
   build:
-    name: "Translate to ${{ matrix.lang }} using ${{ matrix.os }}"
-    runs-on: ${{ matrix.os }}-latest
+    name: "Translate to ${{ matrix.lang }}"
+    runs-on: ubuntu
     strategy:
       fail-fast: false
       matrix:
