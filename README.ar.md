@@ -23,12 +23,12 @@
 
 ## أكواد الخروج
 
-إذا قام R بإرجاع رمز خروج غير صفري ، فمن المحتمل أن الخادم أعاد رمز استجابة غير 200 HTTP. للتحقق من رمز الاستجابة ، حاول البحث في وحدة التحكم الخاصة بك. إذا كان كود الخروج HTTP 200 +! = 0 ، فالمشكلة عامة وهي خطأ في WebGet ، لذا يجب عليك الإبلاغ عنها باستخدام[هذه الصفحة](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+إذا قام R بإرجاع رمز خروج غير صفري ، فمن المحتمل أن الخادم أعاد رمز استجابة غير 200 HTTP. للتحقق من رمز الاستجابة ، حاول البحث في وحدة التحكم الخاصة بك. إذا كان كود الخروج HTTP 200 +! = 0 ، فالمشكلة عامة وهي خطأ في WebGet ، لذا يجب عليك الإبلاغ عنها باستخدام[this page](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## تثبيت
 
-1.  استنساخ باستخدام git:
+1.  Clone using git:
         git clone https://github.com/Tyler887/WebGet.git
 2.  تثبيت R:
     -   على أساس أباتشي أو غير معكوسة:[هتبص://كران.ربرجكة.عرج/بين](https://cran.r-project.org/bin)
-    -   معكوسة:[هتبص://كران.ربرجكة.عرج/مرورص.هتمل](https://cran.r-project.org/mirrors.html)
+    -   Mirrored: [هتبص://كران.ربرجكة.عرج/مرورص.هتمل](https://cran.r-project.org/mirrors.html)
