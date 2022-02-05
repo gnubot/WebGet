@@ -1,7 +1,7 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
 هذه الصفحة متاحة بلغات متعددة.
-اقرأ هذه الصفحة باللغة:[اليابان](README.ja.md),[español](README.es.md),[الصينية المبسطة](README.zh-CN.md),[الصينية التقليدية](README.zh-TW.md),[فرنسي](README.fr.md),[عربى](README.ar.md),[هندي](README.hi.md),[الكورية](README.ko.md)
+اقرأ هذه الصفحة باللغة:[اليابان](README.ja.md),[الأسبانية](README.es.md),[الصينية المبسطة](README.zh-CN.md),[الصينية التقليدية](README.zh-TW.md),[فرنسي](README.fr.md),[عربى](README.ar.md),[هندي](README.hi.md),[الكورية](README.ko.md)
 
 # تنفيذ WebGet
 
@@ -11,11 +11,11 @@
 
 مكتوبة بلغة R ، بسيطة كاملة. يستغرق وقتًا قصيرًا ، إنه أمر جيد ببساطة. استخدم WebGet لتحميل الملفات من شبكة الويب العالمية.
 
-انا افترض**لا يوجد ضمان**لأي**مواد محفوظة الحقوق**تم تنزيله على WebGet.
+انا افترض**لا يوجد ضمان**لأي**copyrighted material**تم تنزيله على WebGet.
 
 عادةً ما أوصي بتنزيل الملفات المرخصة مجانًا فقط.
 
-Learn more about WebGet [هنا](https://github.com/Tyler887/WebGet/wiki/WebGet).
+تعرف على المزيد حول WebGet[هنا](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
 ## متطلبات
 
@@ -23,4 +23,4 @@ Learn more about WebGet [هنا](https://github.com/Tyler887/WebGet/wiki/WebGet)
 
 ## أكواد الخروج
 
-إذا قام R بإرجاع رمز خروج غير صفري ، فمن المحتمل أن الخادم أعاد رمز استجابة غير 200 HTTP. للتحقق من رمز الاستجابة ، حاول البحث في وحدة التحكم الخاصة بك. إذا كانت 200 ، فإن المشكلة عامة وهي خطأ في WebGet ، لذا يجب عليك الإبلاغ عنها على[هتبص://جذب.كوم/تيلرضح/وبغت/اسس](https://github.com/Tyler887/WebGet/issues).
+إذا قام R بإرجاع رمز خروج غير صفري ، فمن المحتمل أن الخادم أعاد رمز استجابة غير 200 HTTP. للتحقق من رمز الاستجابة ، حاول البحث في وحدة التحكم الخاصة بك. إذا كانت 200 ، فإن المشكلة عامة وهي خطأ في WebGet ، لذا يجب عليك الإبلاغ عنها على[هذه الصفحة](https://github.com/Tyler887/WebGet/issues).
