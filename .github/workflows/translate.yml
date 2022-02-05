@@ -13,13 +13,13 @@ on:
 jobs:
   
   build:
-    name: Translate to ${{ matrix.lang }}
+    name: "${{ runner.os }}: Translate to ${{ matrix.lang }}"
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
       matrix:
         lang: ["zh-CN", "zh-TW", "ja", "ar", "hi", "ko"]
-        node: ["12.x", "16.x"]
+        os: [windows, ubuntu, macos]
     steps:
 
       - uses: actions/checkout@v2
@@ -30,7 +30,7 @@ jobs:
 
         with:
 
-          node-version: ${{ matrix.node }}
+          node-version: 16.x
 
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
 
