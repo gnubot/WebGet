@@ -1,13 +1,13 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
 このページは複数の言語で利用できます。
-このページを読んでください：[日本](README.ja.md)、[スペイン語](README.es.md)、[简体中文](README.zh-CN.md)、[繁体字中国語](README.zh-TW.md)、[フランス語](README.fr.md)、[アラビア語](README.ar.md)、[ヒンディー語](README.hi.md)
+このページを読んでください：[日本](README.ja.md)、[スペイン語](README.es.md)、[简体中文](README.zh-CN.md)、[繁体字中国語](README.zh-TW.md), [フランス語](README.fr.md)、[アラビア語](README.ar.md)、[ヒンディー語](README.hi.md)、[韓国人](README.ko.md)
 
-# The WebGet Implementation
+# WebGetの実装
 
 [![Fork](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
 
-短時間でWebからファイルをダウンロードするための実装。
+The implementation to download files from the Web, in a short time.
 
 Rで書かれ、完全にシンプル。短時間で、簡単にできます。 WebGetを使用して、ワールドワイドウェブからファイルを取得します。
 
