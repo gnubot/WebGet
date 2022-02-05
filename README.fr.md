@@ -7,12 +7,20 @@ Lire cette page en :[Japon](README.ja.md),[Espagnol](README.es.md),[Chinois simp
 
 [![Fork](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
 
-La mise en œuvre pour télécharger des fichiers à partir du Web, en peu de temps.
+La mise en œuvre pour télécharger rapidement des fichiers à partir du Web, en peu de temps.
 
-Écrit en R, complet simple. Cela prend peu de temps, tout simplement bon. Utilisez WebGet pour récupérer des fichiers sur le World Wide Web.
+Écrit en R, complet simple. Cela prend peu de temps, tout simplement bon. Utilisez WebGet pour télécharger des fichiers à partir du World Wide Web.
 
 je suppose**Aucune garantie**pour toute**Matériel protégé par le droit d'auteur**téléchargé sur WebGet.
 
 Je recommande généralement de télécharger uniquement des fichiers sous licence libre.
 
 En savoir plus sur Web Get[ici](https://github.com/Tyler887/WebGet/wiki/WebGet).
+
+## Exigences
+
+-   [R](https://r-project.org)
+
+## Exit codes
+
+Si R renvoie un code de sortie non nul, il est probable que le serveur ait renvoyé un code de réponse HTTP non 200. Pour vérifier le code de réponse, essayez de regarder dans votre console. Si c'est 200, alors le problème est générique et c'est quelque chose qui ne va pas avec WebGet, vous devez donc le signaler à<https://github.com/Tyler887/WebGet/issues>.
