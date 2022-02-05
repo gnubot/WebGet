@@ -8,6 +8,6 @@
 
 Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.
 
-我假設**no warranty**對於任何**受版權保護的材料**在 WebGet 上下載。
+我假設**沒有保修**對於任何**copyrighted material** downloaded on WebGet.
 
 我通常建議只下載免費許可的文件。
