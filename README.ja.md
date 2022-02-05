@@ -29,4 +29,6 @@ Rがゼロ以外の終了コードを返した場合は、サーバーが200以�
 
 1.  gitを使用してクローンを作成します。
         git clone https://github.com/Tyler887/WebGet.git
-2.  Install R: [ｈっｔｐｓ：／／ｃらん。ｒーｐろじぇｃｔ。おｒｇ／びん](https://cran.r-project.org/bin)
+2.  Rをインストールします。
+    -   Apacheベースまたは非ミラーリング：[ｈっｔｐｓ：／／ｃらん。ｒーｐろじぇｃｔ。おｒｇ／びん](https://cran.r-project.org/bin)
+    -   ミラーリング：[ｈっｔｐｓ：／／ｃらん。ｒーｐろじぇｃｔ。おｒｇ／みっろｒｓ。ｈｔｍｌ](https://cran.r-project.org/mirrors.html)
