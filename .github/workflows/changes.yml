@@ -16,5 +16,5 @@ jobs:
         run: echo "<br />https://github.com?Tyler887/WebGet/commit/main/$GITHUB_SHA" > ./README.md
       - run: |
          git add ./README.md
-         git commit -S -m "change $GITHUB_SHA"
+         git commit -m "change $GITHUB_SHA"
       - run: git push
