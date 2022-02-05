@@ -17,7 +17,7 @@ Por lo general, recomiendo descargar solo archivos con licencia gratuita.
 
 Más información sobre WebGet[aquí](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
-## Requisitos
+## Requirements
 
 -   [R](https://r-project.org)
 
@@ -31,4 +31,4 @@ Si R devuelve un código de salida distinto de cero, es probable que el servidor
         git clone https://github.com/Tyler887/WebGet.git
 2.  Instalar R:
     -   Basado en Apache o no reflejado:<https://cran.r-project.org/bin>
-    -   reflejado:<https://cran.r-project.org/mirrors.html>
+    -   Mirrored: <https://cran.r-project.org/mirrors.html>
