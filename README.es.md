@@ -14,3 +14,5 @@ Escrito en R, completo simple. Se tarda poco tiempo, simplemente bueno. Utilice 
 Asumo**Sin garantía**para cualquier**material con copyright**descargado en WebGet.
 
 Por lo general, recomiendo descargar solo archivos con licencia gratuita.
+
+Más información sobre WebGet[aquí](https://github.com/Tyler887/WebGet/wiki/WebGet).
