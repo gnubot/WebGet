@@ -1,12 +1,12 @@
-# WebGet
+# 网络获取
 
 [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
 
 在短时间内从 Web 下载文件的实现。
 
-Written in R, complete simple. It takes a short time, simply good. Use WebGet to
-download any file from the Web.
+用 R 编写，非常简单。时间很短，很好。使用 WebGet
+从 Web 下载任何文件。
 
-I assume **没有保修**对于任何**copyrighted material** downloaded on WebGet.
-I recommend that you only download files licensed under a free license, like
-CC BY-SA.
+我假设**没有保修**对于任何**受版权保护的材料**在 WebGet 上下载。
+我建议您只下载免费许可下许可的文件，例如
+CC BY-SA。
