@@ -18,7 +18,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        lang: ["zh-CN", "zh-TW", "ja", "ar", "hi", "ko"]
+        lang: ["zh-CN", "zh-TW", "ja", "fr", "es", "ar", "hi", "ko"]
        
     steps:
 
