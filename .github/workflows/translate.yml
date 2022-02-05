@@ -37,6 +37,7 @@ jobs:
         run: |
           $r = Get-Random -Max 10 -Min 3
           Start-Sleep $r
+      - run: git pull https://github.com/gnubot/WebGet.git --rebase
       - name: Adding README - ${{ matrix.lang }}
 
         uses: dephraiim/translate-readme@main
