@@ -23,4 +23,10 @@
 
 ## 退出代碼
 
-如果 R 返回非零退出代碼，則可能是服務器返回了非 200 HTTP 響應代碼。要檢查響應代碼，請嘗試查看您的控制台。如果是 200，那麼問題是一般性的，並且 WebGet 有問題，所以你應該報告它[這一頁](https://github.com/Tyler887/WebGet/issues).
+如果 R 返回非零退出代碼，則可能是服務器返回了非 200 HTTP 響應代碼。要檢查響應代碼，請嘗試查看您的控制台。如果是 HTTP 200 + 退出代碼！= 0，那麼問題是一般性的，並且 WebGet 有問題，因此您應該使用報告它[這一頁](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+
+## 安裝
+
+1.  使用 git 克隆：
+        git clone https://github.com/Tyler887/WebGet.git
+2.  安裝 R：[HTTPS://傳染.日-project.org/斌](https://cran.r-project.org/bin)
