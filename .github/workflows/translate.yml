@@ -35,7 +35,7 @@ jobs:
 
         run: |
 
-          $r = Get-Random -Max 60 -Min 15
+          $r = Get-Random -Max 160 -Min 30
 
           Start-Sleep $r
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
