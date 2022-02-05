@@ -1,7 +1,7 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
 このページは複数の言語で利用できます。
-このページを読んでください：[日本](README.ja.md)、[スペイン語](README.es.md)、[简体中文](README.zh-CN.md), [繁体字中国語](README.zh-TW.md)、[フランス語](README.fr.md)、[عربى](README.ar.md)、[ヒンディー語](README.hi.md)、[韓国人](README.ko.md)
+このページを読んでください：[日本](README.ja.md)、[スペイン語](README.es.md)、[简体中文](README.zh-CN.md)、[繁体字中国語](README.zh-TW.md)、[フランス語](README.fr.md)、[アラビア語](README.ar.md)、[ヒンディー語](README.hi.md)、[韓国人](README.ko.md)
 
 # WebGetの実装
 
@@ -23,4 +23,4 @@ WebGetの詳細[ここ](https://github.com/Tyler887/WebGet/wiki/WebGet)。
 
 ## 終了コード
 
-Rがゼロ以外の終了コードを返した場合は、サーバーが200以外のHTTP応答コードを返した可能性があります。応答コードを確認するには、コンソールを調べてみてください。 200の場合、問題は一般的であり、WebGetに問題があるため、次のURLで報告する必要があります。[このページ](https://github.com/Tyler887/WebGet/issues)。
+Rがゼロ以外の終了コードを返した場合は、サーバーが200以外のHTTP応答コードを返した可能性があります。応答コードを確認するには、コンソールを調べてみてください。 HTTP 200 +終了コード！= 0の場合、問題は一般的であり、WebGetに問題があるため、次を使用して報告する必要があります。[このページ](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md)。
