@@ -1,6 +1,7 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
-Read this page in: [日本](README.ja.md),[西班牙语](README.es.md),[简体中文](README.zh-CN.md),[繁体中文](README.zh-TW.md),[法语](README.fr.md),[阿拉伯](README.ar.md),[印地语](README.hi.md)
+此页面有多种语言版本。
+阅读本页：[日本](README.ja.md),[西班牙语](README.es.md),[简体中文](README.zh-CN.md),[繁体中文](README.zh-TW.md),[法语](README.fr.md),[阿拉伯](README.ar.md),[印地语](README.hi.md)
 
 # WebGet 实现
 
