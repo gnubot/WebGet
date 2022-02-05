@@ -23,4 +23,6 @@ If R returns a non-zero exit code, it is probably that the server returned a non
    ```
    git clone https://github.com/Tyler887/WebGet.git
    ```
-2. Install R: https://cran.r-project.org/bin
+2. Install R:
+    * Apache based or non-mirrored: https://cran.r-project.org/bin
+    * Mirrored: https://cran.r-project.org/mirrors.html
