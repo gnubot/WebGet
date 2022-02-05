@@ -21,4 +21,6 @@ jobs:
       - run: |
          git add ./README.md
          git commit -m "change $GITHUB_SHA"
-      - run: git push
+      - run: |
+          git pull https://github.com/${{github.repository}}.git
+          git push
