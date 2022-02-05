@@ -23,12 +23,15 @@
 
 ## 退出代碼
 
-如果 R 返回非零退出代碼，則可能是服務器返回了非 200 HTTP 響應代碼。要檢查響應代碼，請嘗試查看您的控制台。如果是 HTTP 200 + 退出代碼！= 0，那麼問題是一般性的，並且 WebGet 有問題，因此您應該使用報告它[這一頁](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+如果 R 返回一個非零的退出碼，很可能是接收 WebGet 的 HTTP 請求的服務器返回了一個非 200 的 HTTP 響應碼。要檢查響應代碼，請嘗試查看您的命令行。如果是 HTTP 200 + 退出代碼≠ 0，那麼問題是一般性的，並且 WebGet 有問題，因此您應該使用報告它[這一頁](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## 安裝
 
 1.  使用 git 克隆：
-        git clone https://github.com/Tyler887/WebGet.git
+    ```bash
+    git clone https://github.com/Tyler887/WebGet.git --single-branch <input version here>
+    ```
 2.  安裝 R：
-    -   基於 Apache 或非鏡像：[HTTPS://傳染.日-project.org/斌](https://cran.r-project.org/bin)
-    -   鏡像：[HTTPS://傳染.日-project.org/mirrors.HTML](https://cran.r-project.org/mirrors.html)
+    -   基於 Apache 或非鏡像：<https://cran.r-project.org/bin>
+    -   鏡像：<https://cran.r-project.org/mirrors.html>
+    -   命令行：適用於 Windows 運行`cinst R.Project`（如果安裝了 Sudo 你也可以使用`sudo cinst R.Project`)，否則使用`brew install r`（你也可以使用`sudo brew install r`)
