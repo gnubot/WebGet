@@ -4,9 +4,9 @@
 
 تنفيذ تنزيل الملفات من الويب في وقت قصير.
 
-مكتوبة بلغة R ، بسيطة كاملة. يستغرق وقتًا قصيرًا ، إنه أمر جيد ببساطة. استخدم WebGet إلى
-تنزيل أي ملف من الويب.
+Written in R, complete simple. It takes a short time, simply good. Use WebGet to
+download any file from the Web.
 
-انا افترض**لا يوجد ضمان**لأي**مواد محفوظة الحقوق**تم تنزيله على WebGet.
+انا افترض**no warranty** for any **copyrighted material**تم تنزيله على WebGet.
 أوصي بتنزيل الملفات المرخصة بموجب ترخيص مجاني فقط ، مثل
 CC BY-SA.
