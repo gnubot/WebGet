@@ -24,3 +24,9 @@ WebGetの詳細[ここ](https://github.com/Tyler887/WebGet/wiki/WebGet)。
 ## 終了コード
 
 Rがゼロ以外の終了コードを返した場合は、サーバーが200以外のHTTP応答コードを返した可能性があります。応答コードを確認するには、コンソールを調べてみてください。 HTTP 200 +終了コード！= 0の場合、問題は一般的であり、WebGetに問題があるため、次を使用して報告する必要があります。[このページ](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md)。
+
+## インストール
+
+1.  gitを使用してクローンを作成します。
+        git clone https://github.com/Tyler887/WebGet.git
+2.  Install R: [ｈっｔｐｓ：／／ｃらん。ｒーｐろじぇｃｔ。おｒｇ／びん](https://cran.r-project.org/bin)
