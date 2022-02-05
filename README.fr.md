@@ -7,6 +7,6 @@ La mise en œuvre pour télécharger des fichiers à partir du Web, en peu de te
 Écrit en R, complet simple. Cela prend peu de temps, tout simplement bon. Utilisez WebGet pour
 télécharger n'importe quel fichier sur le Web.
 
-I assume **Aucune garantie**pour toute**Matériel protégé par le droit d'auteur**téléchargé sur WebGet.
+je suppose**Aucune garantie** for any **Matériel protégé par le droit d'auteur**téléchargé sur WebGet.
 Je vous recommande de ne télécharger que des fichiers sous licence libre, comme
 CC BY-SA.
