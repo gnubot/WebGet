@@ -29,4 +29,6 @@
 
 1.  استنساخ باستخدام git:
         git clone https://github.com/Tyler887/WebGet.git
-2.  تثبيت R:[هتبص://كران.ربرجكة.عرج/بين](https://cran.r-project.org/bin)
+2.  تثبيت R:
+    -   على أساس أباتشي أو غير معكوسة:[هتبص://كران.ربرجكة.عرج/بين](https://cran.r-project.org/bin)
+    -   معكوسة:[هتبص://كران.ربرجكة.عرج/مرورص.هتمل](https://cran.r-project.org/mirrors.html)
