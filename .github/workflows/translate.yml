@@ -19,9 +19,7 @@ jobs:
       fail-fast: false
       matrix:
         lang: ["zh-CN", "zh-TW", "ja", "fr", "es", "ar", "hi", "ko"]
-    outputs:
-      final: "URL leading to the README"
-        
+      
     steps:
 
       - uses: actions/checkout@v2
@@ -50,5 +48,4 @@ jobs:
 
           LANG: ${{ matrix.lang }}
 
-      - name: Set URL
-        run: echo "::set-output name="final" value="https://github.com/${{github.repository}}/blob/main/README.${{ matrix.lang }}.md"::"
+      
