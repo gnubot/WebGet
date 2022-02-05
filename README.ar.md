@@ -23,12 +23,15 @@
 
 ## أكواد الخروج
 
-إذا قام R بإرجاع رمز خروج غير صفري ، فمن المحتمل أن الخادم أعاد رمز استجابة غير 200 HTTP. للتحقق من رمز الاستجابة ، حاول البحث في وحدة التحكم الخاصة بك. إذا كان كود الخروج HTTP 200 +! = 0 ، فالمشكلة عامة وهي خطأ في WebGet ، لذا يجب عليك الإبلاغ عنها باستخدام[this page](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+إذا قام R بإرجاع رمز خروج غير صفري ، فمن المحتمل أن الخادم الذي يتلقى طلب WebGet الخاص بـ HTTP قد أعاد رمز استجابة غير 200 HTTP. للتحقق من رمز الاستجابة ، حاول البحث في سطر الأوامر. إذا كان كود الخروج HTTP 200 + ≠ 0 ، فإن المشكلة عامة وهي خطأ في WebGet ، لذا يجب عليك الإبلاغ عنها باستخدام[هذه الصفحة](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## تثبيت
 
 1.  Clone using git:
-        git clone https://github.com/Tyler887/WebGet.git
+    ```bash
+    git clone https://github.com/Tyler887/WebGet.git --single-branch <input version here>
+    ```
 2.  تثبيت R:
     -   على أساس أباتشي أو غير معكوسة:[هتبص://كران.ربرجكة.عرج/بين](https://cran.r-project.org/bin)
-    -   Mirrored: [هتبص://كران.ربرجكة.عرج/مرورص.هتمل](https://cran.r-project.org/mirrors.html)
+    -   معكوسة:[هتبص://كران.ربرجكة.عرج/مرورص.هتمل](https://cran.r-project.org/mirrors.html)
+    -   سطر الأوامر: لتشغيل Windows`cinst R.Project`(إذا تم تثبيت Sudo ، يمكنك أيضًا استخدام ملفات`sudo cinst R.Project`) ، وإلا استخدم`brew install r`(تستطيع ايضا استخذام`sudo brew install r`)
