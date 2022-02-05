@@ -23,12 +23,15 @@ En savoir plus sur Web Get[ici](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
 ## Exit codes
 
-Si R renvoie un code de sortie non nul, il est probable que le serveur ait renvoyé un code de réponse HTTP non 200. Pour vérifier le code de réponse, essayez de regarder dans votre console. Si c'est HTTP 200 + code de sortie != 0, alors le problème est générique et c'est quelque chose qui ne va pas avec WebGet, donc vous devriez le signaler en utilisant[cette page](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+Si R renvoie un code de sortie non nul, il est probable que le serveur recevant la requête HTTP de WebGet a renvoyé un code de réponse HTTP non 200. Pour vérifier le code de réponse, essayez de regarder dans votre ligne de commande. Si c'est HTTP 200 + code de sortie ≠ 0, alors le problème est générique et c'est quelque chose qui ne va pas avec WebGet, vous devez donc le signaler en utilisant[cette page](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## Installer
 
 1.  Cloner avec git :
-        git clone https://github.com/Tyler887/WebGet.git
+    ```bash
+    git clone https://github.com/Tyler887/WebGet.git --single-branch <input version here>
+    ```
 2.  Installez R :
     -   Basé sur Apache ou non mis en miroir :<https://cran.r-project.org/bin>
     -   En miroir :<https://cran.r-project.org/mirrors.html>
+    -   Ligne de commande : pour exécuter Windows`cinst R.Project`(si Sudo est installé, vous pouvez également utiliser`sudo cinst R.Project`), sinon utiliser`brew install r`(vous pouvez aussi utiliser`sudo brew install r`)
