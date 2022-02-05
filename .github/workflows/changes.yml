@@ -17,7 +17,7 @@ jobs:
       
         run: |
           $OldContent = Get-Content ./CHANGELOG
-          echo "$OldContent`n$GITHUB_SHA - diff: https://github.com?Tyler887/WebGet/commit/main/$GITHUB_SHA" > ./CHANGELOG
+          echo "$OldContent`n${{ github.event.commits[0].message }} - diff: https://github.com?Tyler887/WebGet/commit/main/${{ github.sha }}" > ./CHANGELOG
       - run: |
          git add ./CHANGELOG
          git commit -m "change $GITHUB_SHA"
