@@ -2,12 +2,10 @@
 
 # WebGet
 
-[![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
+[![Fork](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
 
 تنفيذ تنزيل الملفات من الويب في وقت قصير.
 
 مكتوبة بلغة R ، بسيطة كاملة. يستغرق وقتًا قصيرًا ، إنه أمر جيد ببساطة. استخدم WebGet لاسترداد الملفات من شبكة الويب العالمية.
 
-انا افترض**لا يوجد ضمان**لأي**مواد محفوظة الحقوق**تم تنزيله على WebGet.
-
-I usally recommend downloading freely licensed files only.
+لاستخدام GnuBot فقط. تحميل[نسخة الجذر الأخرى](https://github.com/Tyler887/WebGet)لحالات الاستخدام الأخرى.
