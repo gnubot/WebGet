@@ -13,7 +13,7 @@ La mise en œuvre pour télécharger rapidement des fichiers à partir du Web, e
 
 je suppose**Aucune garantie**pour toute**Matériel protégé par le droit d'auteur**téléchargé sur WebGet.
 
-I usally recommend downloading freely licensed files only.
+Je recommande généralement de télécharger uniquement des fichiers sous licence libre.
 
 En savoir plus sur Web Get[ici](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
@@ -24,3 +24,9 @@ En savoir plus sur Web Get[ici](https://github.com/Tyler887/WebGet/wiki/WebGet).
 ## Exit codes
 
 Si R renvoie un code de sortie non nul, il est probable que le serveur ait renvoyé un code de réponse HTTP non 200. Pour vérifier le code de réponse, essayez de regarder dans votre console. Si c'est HTTP 200 + code de sortie != 0, alors le problème est générique et c'est quelque chose qui ne va pas avec WebGet, donc vous devriez le signaler en utilisant[cette page](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+
+## Installer
+
+1.  Cloner avec git :
+        git clone https://github.com/Tyler887/WebGet.git
+2.  Installez R :<https://cran.r-project.org/bin>
