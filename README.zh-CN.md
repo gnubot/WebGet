@@ -6,7 +6,7 @@
 
 在短时间内从 Web 下载文件的实现。
 
-用 R 编写，非常简单。时间很短，很好。使用 WebGet 从万维网检索文件。
+Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.
 
 我假设**没有保修**对于任何**受版权保护的材料**在 WebGet 上下载。
 
