@@ -30,5 +30,5 @@
 1.  使用 git 克隆：
         git clone https://github.com/Tyler887/WebGet.git
 2.  安装 R：
-    -   基于 Apache 或非镜像：<https://cran.r-project.org/bin>
-    -   镜像：<https://cran.r-project.org/mirrors.html>
+    -   基于 Apache 或非镜像：[HTTPS://传染.日-project.org/斌](https://cran.r-project.org/bin)
+    -   镜像：[HTTPS://传染.日-project.org/mirrors.HTML](https://cran.r-project.org/mirrors.html)
