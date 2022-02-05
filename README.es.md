@@ -1,6 +1,7 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
-Read this page in: [Japón](README.ja.md),[español](README.es.md),[chino simplificado](README.zh-CN.md),[chino tradicional](README.zh-TW.md),[francés](README.fr.md),[árabe](README.ar.md),[hindi](README.hi.md)
+Esta página está disponible en varios idiomas.
+Lea esta página en:[Japón](README.ja.md),[español](README.es.md),[chino simplificado](README.zh-CN.md),[chino tradicional](README.zh-TW.md),[francés](README.fr.md),[árabe](README.ar.md),[hindi](README.hi.md)
 
 # La implementación de WebGet
 
@@ -10,6 +11,6 @@ La implementación para descargar archivos de la Web, en poco tiempo.
 
 Escrito en R, completo simple. Se tarda poco tiempo, simplemente bueno. Utilice WebGet para recuperar archivos de Internet.
 
-Asumo**Sin garantía**para cualquier**material con copyright**descargado en WebGet.
+I assume **Sin garantía** for any **copyrighted material**descargado en WebGet.
 
 Por lo general, recomiendo descargar solo archivos con licencia gratuita.
