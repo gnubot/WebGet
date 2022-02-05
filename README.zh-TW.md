@@ -2,12 +2,12 @@
 
 # 網絡獲取
 
-[![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
+[![Fork](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
 
 在短時間內從 Web 下載文件的實現。
 
 用 R 編寫，非常簡單。時間很短，很好。使用 WebGet 從萬維網檢索文件。
 
-我假設**沒有保修** for any **受版權保護的材料**在 WebGet 上下載。
+我假設**沒有保修**對於任何**受版權保護的材料**在 WebGet 上下載。
 
 我通常建議只下載免費許可的文件。
