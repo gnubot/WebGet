@@ -12,3 +12,5 @@ Written in R, complete simple. It takes a short time, simply good. Use WebGet to
 I assume **no warranty** for any **copyrighted material** downloaded on WebGet.
 
 I usally recommend downloading freely licensed files only.
+
+Learn more about WebGet [here](https://github.com/Tyler887/WebGet/wiki).
