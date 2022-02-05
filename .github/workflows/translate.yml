@@ -19,7 +19,7 @@ jobs:
       fail-fast: false
       matrix:
         lang: ["zh-CN", "zh-TW", "ja", "ar", "hi", "ko"]
-        os: [windows, ubuntu, macos]
+       
     steps:
 
       - uses: actions/checkout@v2
