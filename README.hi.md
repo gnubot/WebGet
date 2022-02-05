@@ -1,7 +1,7 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
 यह पेज कई भाषाओं में उपलब्ध है।
-इस पेज को इसमें पढ़ें:[जापान](README.ja.md),[स्पेनिश](README.es.md),[सरलीकृत चीनी](README.zh-CN.md),[परंपरागत चीनी](README.zh-TW.md),[फ्रेंच](README.fr.md),[अरबी](README.ar.md),[हिन्दी](README.hi.md),[कोरियाई](README.ko.md)
+इस पेज को इसमें पढ़ें:[जापान](README.ja.md),[स्पेनिश](README.es.md),[सरलीकृत चीनी](README.zh-CN.md),[परंपरागत चीनी](README.zh-TW.md), [फ्रेंच](README.fr.md),[अरबी](README.ar.md),[हिन्दी](README.hi.md),[कोरियाई](README.ko.md)
 
 # वेबगेट कार्यान्वयन
 
@@ -13,6 +13,6 @@
 
 मै मानता हूँ**कोई वारंटी नहीं**किसी के लिए**कॉपीराइट सामग्री**वेबगेट पर डाउनलोड किया गया।
 
-I usally recommend downloading freely licensed files only.
+मैं आमतौर पर केवल मुफ्त लाइसेंस प्राप्त फाइलों को ही डाउनलोड करने की सलाह देता हूं।
 
-वेबगेट के बारे में और जानें[यहां](https://github.com/Tyler887/WebGet/wiki).
+वेबगेट के बारे में और जानें[यहां](https://github.com/Tyler887/WebGet/wiki/WebGet).
