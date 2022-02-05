@@ -1,7 +1,7 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
 このページは複数の言語で利用できます。
-このページを読んでください：[日本](README.ja.md)、[スペイン語](README.es.md)、[简体中文](README.zh-CN.md)、[繁体字中国語](README.zh-TW.md)、[フランス語](README.fr.md)、[アラビア語](README.ar.md)、[ヒンディー語](README.hi.md)、[韓国人](README.ko.md)
+このページを読んでください：[日本](README.ja.md)、[スペイン語](README.es.md)、[简体中文](README.zh-CN.md)、[繁体字中国語](README.zh-TW.md)、[フランス語](README.fr.md)、[アラビア語](README.ar.md), [ヒンディー語](README.hi.md)、[韓国人](README.ko.md)
 
 # WebGetの実装
 
@@ -11,8 +11,8 @@
 
 Rで書かれ、完全にシンプル。短時間で、簡単にできます。 WebGetを使用して、ワールドワイドウェブからファイルを取得します。
 
-私が想定し**無保証**任意の**著作権で保護された資料**WebGetにダウンロードされました。
+私が想定し**無保証** for any **著作権で保護された資料**WebGetにダウンロードされました。
 
-I usally recommend downloading freely licensed files only.
+私は通常、無料でライセンスされたファイルのみをダウンロードすることをお勧めします。
 
-WebGetの詳細[ここ](https://github.com/Tyler887/WebGet/wiki)。
+WebGetの詳細[ここ](https://github.com/Tyler887/WebGet/wiki/WebGet)。
