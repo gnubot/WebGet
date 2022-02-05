@@ -8,6 +8,6 @@ La implementación para descargar archivos de la Web, en poco tiempo.
 
 Escrito en R, completo simple. Se tarda poco tiempo, simplemente bueno. Utilice WebGet para recuperar archivos de Internet.
 
-Asumo**Sin garantía**para cualquier**material con copyright** downloaded on WebGet.
+Asumo**Sin garantía**para cualquier**material con copyright**descargado en WebGet.
 
 Por lo general, recomiendo descargar solo archivos con licencia gratuita.
