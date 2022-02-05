@@ -14,5 +14,7 @@ jobs:
           git config --global user.Email "github-actions[bot]@users.noreply.github.com"
       - name: add change
         run: echo "<br />https://github.com?Tyler887/WebGet/commit/main/$GITHUB_SHA" > ./README.md
-      - run: git commit -S -m "change $GITHUB_SHA"
+      - run: |
+         git add ./README.md
+         git commit -S -m "change $GITHUB_SHA"
       - run: git push
