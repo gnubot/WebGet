@@ -14,7 +14,7 @@ jobs:
   
   build:
     name: "Translate to ${{ matrix.lang }}"
-    runs-on: ubuntu-current
+    runs-on: ubuntu-latest
     strategy:
       fail-fast: false
       matrix:
