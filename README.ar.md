@@ -23,7 +23,7 @@
 
 ## أكواد الخروج
 
-إذا قام R بإرجاع رمز خروج غير صفري ، فمن المحتمل أن الخادم أعاد رمز استجابة غير 200 HTTP. للتحقق من رمز الاستجابة ، حاول البحث في وحدة التحكم الخاصة بك. إذا كان كود الخروج HTTP 200 +! = 0 ، فالمشكلة عامة وهي خطأ في WebGet ، لذا يجب عليك الإبلاغ عنها باستخدام[هذه الصفحة](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+If R returns a non-zero exit code, it is probably that the server returned a non-200 HTTP response code. To check the response code, try looking in your console. If it's HTTP 200 + exit code != 0, then the problem is generic and it is something wrong with WebGet, so you should report it using [هذه الصفحة](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## تثبيت
 
