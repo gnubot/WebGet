@@ -23,4 +23,4 @@ WebGet에 대해 자세히 알아보기[여기](https://github.com/Tyler887/WebG
 
 ## 종료 코드
 
-R이 0이 아닌 종료 코드를 반환하면 서버가 200이 아닌 HTTP 응답 코드를 반환했을 수 있습니다. 응답 코드를 확인하려면 콘솔을 살펴보십시오. 200이면 문제가 일반적이고 WebGet에 문제가 있는 것이므로 다음에서 보고해야 합니다.[이 페이지](https://github.com/Tyler887/WebGet/issues).
+R이 0이 아닌 종료 코드를 반환하면 서버가 200이 아닌 HTTP 응답 코드를 반환했을 수 있습니다. 응답 코드를 확인하려면 콘솔을 살펴보십시오. HTTP 200 + 종료 코드 != 0인 경우 문제는 일반적이고 WebGet에 문제가 있으므로 다음을 사용하여 보고해야 합니다.[이 페이지](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
