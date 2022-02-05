@@ -51,4 +51,4 @@ jobs:
           LANG: ${{ matrix.lang }}
 
       - name: Set URL
-        run: echo "::set-output final="https:thub.com/${{github.repository}}/blob/main/README.${{ matrix.lang }}.md::"
+        run: echo "::set-output final="https:thub.com/${{github.repository}}/blob/main/README.${{ matrix.lang }}.md"::"
