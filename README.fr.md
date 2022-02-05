@@ -29,4 +29,6 @@ Si R renvoie un code de sortie non nul, il est probable que le serveur ait renvo
 
 1.  Cloner avec git :
         git clone https://github.com/Tyler887/WebGet.git
-2.  Installez R :<https://cran.r-project.org/bin>
+2.  Installez R :
+    -   Basé sur Apache ou non mis en miroir :<https://cran.r-project.org/bin>
+    -   En miroir :<https://cran.r-project.org/mirrors.html>
