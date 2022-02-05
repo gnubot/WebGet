@@ -11,7 +11,7 @@ La implementación para descargar rápidamente archivos de la web, en poco tiemp
 
 Escrito en R, completo simple. Se tarda poco tiempo, simplemente bueno. Utilice WebGet para descargar archivos de Internet.
 
-Asumo**Sin garantía**para cualquier**material con copyright**descargado en WebGet.
+Asumo**Sin garantía** for any **material con copyright**descargado en WebGet.
 
 Por lo general, recomiendo descargar solo archivos con licencia gratuita.
 
@@ -23,7 +23,7 @@ Más información sobre WebGet[aquí](https://github.com/Tyler887/WebGet/wiki/We
 
 ## Códigos de salida
 
-Si R devuelve un código de salida distinto de cero, es probable que el servidor haya devuelto un código de respuesta HTTP distinto de 200. Para verificar el código de respuesta, intente buscar en su consola. Si es HTTP 200 + código de salida! = 0, entonces el problema es genérico y hay algún problema con WebGet, por lo que debe informarlo usando[esta página](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+If R returns a non-zero exit code, it is probably that the server returned a non-200 HTTP response code. To check the response code, try looking in your console. If it's HTTP 200 + exit code != 0, then the problem is generic and it is something wrong with WebGet, so you should report it using [esta página](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## Instalar en pc
 
