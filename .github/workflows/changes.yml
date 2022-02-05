@@ -10,14 +10,14 @@ jobs:
       - uses: actions/checkout@v2
       - name: authenticate git
         run: |
-          git config --global user.Name "github-actions[bot]"
+          git config --global user.Name "changelog"
           git config --global user.Email "github-actions[bot]@users.noreply.github.com"
       - name: add change
         shell: pwsh
       
         run: |
           $OldContent = Get-Content ./CHANGELOG -Encoding UTF8 -Raw
-          echo "$OldContent`n${{ github.event.commits[0].message }} - diff: https://github.com/Tyler887/WebGet/commit/main/${{ github.sha }}" > ./CHANGELOG
+          echo "$OldContent${{ github.event.commits[0].message }} - diff: https://github.com/Tyler887/WebGet/commit/main/${{ github.sha }}" > ./CHANGELOG
       - run: |
          git add ./CHANGELOG
          git commit -m "change $GITHUB_SHA"
