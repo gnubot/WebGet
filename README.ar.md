@@ -2,7 +2,7 @@
 
 # WebGet
 
-[![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
+[![Fork](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
 
 تنفيذ تنزيل الملفات من الويب في وقت قصير.
 
@@ -10,4 +10,4 @@
 
 انا افترض**لا يوجد ضمان**لأي**مواد محفوظة الحقوق**تم تنزيله على WebGet.
 
-I usally recommend downloading freely licensed files only.
+عادةً ما أوصي بتنزيل الملفات المرخصة مجانًا فقط.
