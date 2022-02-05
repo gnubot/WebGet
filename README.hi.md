@@ -13,7 +13,7 @@
 
 मै मानता हूँ**कोई वारंटी नहीं**किसी के लिए**कॉपीराइट सामग्री**वेबगेट पर डाउनलोड किया गया।
 
-I usally recommend downloading freely licensed files only.
+मैं आमतौर पर केवल मुफ्त लाइसेंस प्राप्त फाइलों को ही डाउनलोड करने की सलाह देता हूं।
 
 वेबगेट के बारे में और जानें[यहां](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
@@ -29,4 +29,6 @@ I usally recommend downloading freely licensed files only.
 
 1.  गिट का उपयोग कर क्लोन:
         git clone https://github.com/Tyler887/WebGet.git
-2.  आर स्थापित करें:[हत्तपः://क्रैन.र-प्रोजेक्ट.ऑर्ग/बिन](https://cran.r-project.org/bin)
+2.  आर स्थापित करें:
+    -   अपाचे आधारित या गैर-प्रतिबिंबित:[हत्तपः://क्रैन.र-प्रोजेक्ट.ऑर्ग/बिन](https://cran.r-project.org/bin)
+    -   प्रतिबिंबित:[हत्तपः://क्रैन.र-प्रोजेक्ट.ऑर्ग/मिर्रोर्स.हटम्ल](https://cran.r-project.org/mirrors.html)
