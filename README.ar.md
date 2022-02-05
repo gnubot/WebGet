@@ -10,4 +10,4 @@
 
 انا افترض**لا يوجد ضمان**لأي**مواد محفوظة الحقوق**تم تنزيله على WebGet.
 
-عادةً ما أوصي بتنزيل الملفات المرخصة مجانًا فقط.
+I usally recommend downloading freely licensed files only.
