@@ -32,6 +32,8 @@
     git clone https://github.com/Tyler887/WebGet.git --single-branch <input version here>
     ```
 2.  安裝 R：
-    -   基於 Apache 或非鏡像：<https://cran.r-project.org/bin>
-    -   鏡像：<https://cran.r-project.org/mirrors.html>
-    -   命令行：適用於 Windows 運行`cinst R.Project`（如果安裝了 Sudo 你也可以使用`sudo cinst R.Project`)，否則使用`brew install r`（你也可以使用`sudo brew install r`)
+    -   基於 Apache 或非鏡像：[HTTPS://傳染.日-project.org/斌](https://cran.r-project.org/bin)
+    -   鏡像：[HTTPS://傳染.日-project.org/mirrors.HTML](https://cran.r-project.org/mirrors.html)
+    -   命令行：
+        -   視窗：`cinst R.Project`（如果安裝了 Sudo 你也可以使用`sudo cinst R.Project`)
+        -   所有其他操作系統：`brew install r`（你也可以使用`sudo brew install r`)
