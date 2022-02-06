@@ -27,11 +27,13 @@
 
 ## تثبيت
 
-1.  Clone using git:
+1.  استنساخ باستخدام git:
     ```bash
     git clone https://github.com/Tyler887/WebGet.git --single-branch <input version here>
     ```
 2.  تثبيت R:
     -   على أساس أباتشي أو غير معكوسة:[هتبص://كران.ربرجكة.عرج/بين](https://cran.r-project.org/bin)
     -   معكوسة:[هتبص://كران.ربرجكة.عرج/مرورص.هتمل](https://cran.r-project.org/mirrors.html)
-    -   سطر الأوامر: لتشغيل Windows`cinst R.Project`(إذا تم تثبيت Sudo ، يمكنك أيضًا استخدام ملفات`sudo cinst R.Project`) ، وإلا استخدم`brew install r`(تستطيع ايضا استخذام`sudo brew install r`)
+    -   سطر الأوامر:
+        -   شبابيك:`cinst R.Project`(إذا تم تثبيت Sudo ، يمكنك أيضًا استخدام ملفات`sudo cinst R.Project`)
+        -   جميع أنظمة التشغيل الأخرى:`brew install r`(تستطيع ايضا استخذام`sudo brew install r`)
