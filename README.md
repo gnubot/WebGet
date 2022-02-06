@@ -26,4 +26,6 @@ If R returns a non-zero exit code, it is probably that the server receiving WebG
 2. Install R:
     * Apache based or non-mirrored: https://cran.r-project.org/bin
     * Mirrored: https://cran.r-project.org/mirrors.html
-    * Command line: for Windows run `cinst R.Project` (if Sudo is installed you can also use `sudo cinst R.Project`), otherwise use `brew install r` (you can also use `sudo brew install r`)
+    * Command line: 
+       * Windows: `cinst R.Project` (if Sudo is installed you can also use `sudo cinst R.Project`)
+       * All other OSes: `brew install r` (you can also use `sudo brew install r`)
