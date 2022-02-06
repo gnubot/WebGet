@@ -34,4 +34,6 @@ Si R renvoie un code de sortie non nul, il est probable que le serveur recevant 
 2.  Installez R :
     -   Basé sur Apache ou non mis en miroir :<https://cran.r-project.org/bin>
     -   En miroir :<https://cran.r-project.org/mirrors.html>
-    -   Ligne de commande : pour exécuter Windows`cinst R.Project`(si Sudo est installé, vous pouvez également utiliser`sudo cinst R.Project`), sinon utiliser`brew install r`(vous pouvez aussi utiliser`sudo brew install r`)
+    -   Ligne de commande:
+        -   Windows:`cinst R.Project`(si Sudo est installé, vous pouvez également utiliser`sudo cinst R.Project`)
+        -   All other OSes: `brew install r`(vous pouvez aussi utiliser`sudo brew install r`)
