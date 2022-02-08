@@ -11,9 +11,7 @@
 
 R로 작성, 완전 간단합니다. 짧은 시간이 걸립니다. 단순히 좋습니다. WebGet을 사용하여 월드 와이드 웹에서 파일을 로드하십시오.
 
-나는 가정한다**보증 없음**어떠한 것도**저작권이 있는 자료**WebGet에서 다운로드했습니다.
-
-일반적으로 무료 라이선스 파일만 다운로드하는 것이 좋습니다.
+GnuBot 전용입니다. 다운로드[다른 루트 버전](https://github.com/Tyler887/WebGet)다른 사용 사례의 경우.
 
 WebGet에 대해 자세히 알아보기[여기](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
@@ -32,8 +30,8 @@ R이 0이 아닌 종료 코드를 반환하는 경우 WebGet의 HTTP 요청을 �
     git clone https://github.com/Tyler887/WebGet.git --single-branch <input version here>
     ```
 2.  R 설치:
-    -   Apache based or non-mirrored: <https://cran.r-project.org/bin>
-    -   미러링:<https://cran.r-project.org/mirrors.html>
+    -   Apache 기반 또는 미러링되지 않음:<https://cran.r-project.org/bin>
+    -   Mirrored: <https://cran.r-project.org/mirrors.html>
     -   명령줄:
         -   윈도우:`cinst R.Project`(Sudo가 설치된 경우 다음을 사용할 수도 있습니다.`sudo cinst R.Project`)
-        -   기타 모든 OS:`brew install r` (you can also use `sudo brew install r`)
+        -   기타 모든 OS:`brew install r`(당신은 또한 사용할 수 있습니다`sudo brew install r`)
