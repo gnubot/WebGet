@@ -21,7 +21,7 @@
 
 ## 退出代碼
 
-如果 R 返回一個非零的退出碼，很可能是接收 WebGet 的 HTTP 請求的服務器返回了一個非 200 的 HTTP 響應碼。要檢查響應代碼，請嘗試查看您的命令行。如果是 HTTP 200 + 退出代碼≠ 0，那麼問題是一般性的，WebGet 有問題，所以你應該使用報告它[這一頁](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+如果 R 返回一個非零的退出碼，很可能是接收 WebGet 的 HTTP 請求的服務器返回了一個非 200 的 HTTP 響應碼。要檢查響應代碼，請嘗試查看您的命令行。如果是 HTTP 200 + 退出代碼≠ 0，那麼問題是一般性的，並且 WebGet 有問題，因此您應該使用報告它[這一頁](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## 安裝
 
