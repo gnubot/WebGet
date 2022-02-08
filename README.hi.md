@@ -1,7 +1,7 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
-यह पेज कई भाषाओं में उपलब्ध है।
-इस पेज को इसमें पढ़ें:[जापान](README.ja.md),[स्पेनिश](README.es.md),[सरलीकृत चीनी](README.zh-CN.md),[परंपरागत चीनी](README.zh-TW.md),[फ्रेंच](README.fr.md),[अरबी](README.ar.md),[हिन्दी](README.hi.md),[कोरियाई](README.ko.md)
+This page is available in multiple languages.
+Read this page in: [जापान](README.ja.md),[स्पेनिश](README.es.md),[सरलीकृत चीनी](README.zh-CN.md),[परंपरागत चीनी](README.zh-TW.md),[फ्रेंच](README.fr.md),[अरबी](README.ar.md),[हिन्दी](README.hi.md),[कोरियाई](README.ko.md)
 
 # वेबगेट कार्यान्वयन
 
@@ -31,7 +31,7 @@
     ```
 2.  आर स्थापित करें:
     -   अपाचे आधारित या गैर-प्रतिबिंबित:[हत्तपः://क्रैन.र-प्रोजेक्ट.ऑर्ग/बिन](https://cran.r-project.org/bin)
-    -   Mirrored: [हत्तपः://क्रैन.र-प्रोजेक्ट.ऑर्ग/मिर्रोर्स.हटम्ल](https://cran.r-project.org/mirrors.html)
+    -   प्रतिबिंबित:[हत्तपः://क्रैन.र-प्रोजेक्ट.ऑर्ग/मिर्रोर्स.हटम्ल](https://cran.r-project.org/mirrors.html)
     -   कमांड लाइन:
         -   खिड़कियाँ:`cinst R.Project`(यदि सूडो स्थापित है तो आप भी उपयोग कर सकते हैं`sudo cinst R.Project`)
         -   अन्य सभी ओएस:`brew install r`(आप भी उपयोग कर सकते हैं`sudo brew install r`)
