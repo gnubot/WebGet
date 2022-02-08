@@ -42,7 +42,7 @@ jobs:
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
       - run: git pull https://github.com/${{github.repository}}.git --rebase
 
-      - run: git pull https://github.com/gnubot/WebGet.git --rebas
+   #   - run: git pull https://github.com/gnubot/WebGet.git --rebas
 
       - name: Adding README - ${{ matrix.lang }}
 
