@@ -3,21 +3,15 @@
 此頁面有多種語言版本。
 閱讀本頁：[日本](README.ja.md),[西班牙語](README.es.md),[簡體中文](README.zh-CN.md),[繁體中文](README.zh-TW.md),[法語](README.fr.md),[阿拉伯](README.ar.md),[印地語](README.hi.md),[韓國人](README.ko.md)
 
-
 # WebGet 實現
 
 [![Fork](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
 
-
-
 在短時間內從網絡快速下載文件的實現。
-
 
 用 R 編寫，非常簡單。時間很短，很好。使用 WebGet 從萬維網下載文件。
 
-我假設**沒有保修**對於任何**受版權保護的材料**在 WebGet 上下載。
-
-我通常建議只下載免費許可的文件。
+僅供 GnuBot 使用。下載[另一個根版本](https://github.com/Tyler887/WebGet)對於其他用例。
 
 了解有關 WebGet 的更多信息[這裡](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
@@ -27,7 +21,7 @@
 
 ## 退出代碼
 
-如果 R 返回一個非零的退出碼，很可能是接收 WebGet 的 HTTP 請求的服務器返回了一個非 200 的 HTTP 響應碼。要檢查響應代碼，請嘗試查看您的命令行。如果是 HTTP 200 + 退出代碼≠ 0，那麼問題是一般性的，並且 WebGet 有問題，因此您應該使用報告它[這一頁](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+如果 R 返回一個非零的退出碼，很可能是接收 WebGet 的 HTTP 請求的服務器返回了一個非 200 的 HTTP 響應碼。要檢查響應代碼，請嘗試查看您的命令行。如果是 HTTP 200 + 退出代碼≠ 0，那麼問題是一般性的，WebGet 有問題，所以你應該使用報告它[這一頁](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## 安裝
 
