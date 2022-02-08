@@ -11,9 +11,9 @@
 
 Rで書かれ、完全にシンプル。短時間で、簡単にできます。 WebGetを使用して、ワールドワイドウェブからファイルをダウンロードします。
 
-GnuBotでのみ使用してください。ダウンロード[他のルートバージョン](https://github.com/Tyler887/WebGet)他のユースケースの場合。
+GnuBotでのみ使用してください。ダウンロード[the other root version](https://github.com/Tyler887/WebGet)他のユースケースの場合。
 
-WebGetの詳細[here](https://github.com/Tyler887/WebGet/wiki/WebGet)。
+WebGetの詳細[ここ](https://github.com/Tyler887/WebGet/wiki/WebGet)。
 
 ## 要件
 
