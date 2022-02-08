@@ -31,7 +31,7 @@ R이 0이 아닌 종료 코드를 반환하는 경우 WebGet의 HTTP 요청을 �
     ```
 2.  R 설치:
     -   Apache 기반 또는 미러링되지 않음:<https://cran.r-project.org/bin>
-    -   Mirrored: <https://cran.r-project.org/mirrors.html>
+    -   미러링:<https://cran.r-project.org/mirrors.html>
     -   명령줄:
         -   윈도우:`cinst R.Project`(Sudo가 설치된 경우 다음을 사용할 수도 있습니다.`sudo cinst R.Project`)
         -   기타 모든 OS:`brew install r`(당신은 또한 사용할 수 있습니다`sudo brew install r`)
