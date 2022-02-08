@@ -1,7 +1,7 @@
 <!-- # WebGet  [![GitHub forks](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)  The implementation to download files from the Web, in a short time.  Written in R, complete simple. It takes a short time, simply good. Use WebGet to retrieve files from the world wide web.    I assume **no warranty** for any **copyrighted material** downloaded on WebGet. I usally recommend downloading freely licensed files only. <br />https://github.com?Tyler887/WebGet/commit/main/ -->
 
 Esta página está disponible en varios idiomas.
-Lea esta página en:[Japón](README.ja.md), [español](README.es.md),[chino simplificado](README.zh-CN.md),[chino tradicional](README.zh-TW.md),[francés](README.fr.md),[árabe](README.ar.md),[hindi](README.hi.md),[coreano](README.ko.md)
+Lea esta página en:[Japón](README.ja.md),[español](README.es.md),[chino simplificado](README.zh-CN.md),[chino tradicional](README.zh-TW.md),[francés](README.fr.md),[árabe](README.ar.md),[hindi](README.hi.md),[coreano](README.ko.md)
 
 # La implementación de WebGet
 
@@ -11,11 +11,9 @@ La implementación para descargar rápidamente archivos de la web, en poco tiemp
 
 Escrito en R, completo simple. Se tarda poco tiempo, simplemente bueno. Utilice WebGet para descargar archivos de Internet.
 
-I assume **Sin garantía**para cualquier**material con copyright**descargado en WebGet.
+Solo para uso de GnuBot. Descargar[la otra versión raíz](https://github.com/Tyler887/WebGet)para otros casos de uso.
 
-Por lo general, recomiendo descargar solo archivos con licencia gratuita.
-
-Más información sobre WebGet[aquí](https://github.com/Tyler887/WebGet/wiki/WebGet).
+Learn more about WebGet [aquí](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
 ## Requisitos
 
