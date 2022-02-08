@@ -3,9 +3,7 @@
 هذه الصفحة متاحة بلغات متعددة.
 اقرأ هذه الصفحة باللغة:[اليابان](README.ja.md),[الأسبانية](README.es.md),[الصينية المبسطة](README.zh-CN.md),[الصينية التقليدية](README.zh-TW.md),[فرنسي](README.fr.md),[عربى](README.ar.md),[هندي](README.hi.md),[الكورية](README.ko.md)
 
-
 # تنفيذ WebGet
-
 
 [![Fork](https://img.shields.io/github/forks/Tyler887/WebGet?label=Fork&style=social)](https://github.com/Tyler887/WebGet/fork)
 
@@ -13,10 +11,7 @@
 
 مكتوبة بلغة R ، بسيطة كاملة. يستغرق وقتًا قصيرًا ، إنه أمر جيد ببساطة. استخدم WebGet لتحميل الملفات من شبكة الويب العالمية.
 
-
-انا افترض**لا يوجد ضمان**لأي**مواد محفوظة الحقوق**تم تنزيله على WebGet.
-
-عادةً ما أوصي بتنزيل الملفات المرخصة مجانًا فقط.
+لاستخدام GnuBot فقط. تحميل[نسخة الجذر الأخرى](https://github.com/Tyler887/WebGet)لحالات الاستخدام الأخرى.
 
 تعرف على المزيد حول WebGet[هنا](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
@@ -26,7 +21,7 @@
 
 ## أكواد الخروج
 
-إذا قام R بإرجاع رمز خروج غير صفري ، فمن المحتمل أن الخادم الذي يتلقى طلب WebGet الخاص بـ HTTP قد أعاد رمز استجابة غير 200 HTTP. للتحقق من رمز الاستجابة ، حاول البحث في سطر الأوامر. إذا كان كود الخروج HTTP 200 + ≠ 0 ، فإن المشكلة عامة وهي خطأ في WebGet ، لذا يجب عليك الإبلاغ عنها باستخدام[هذه الصفحة](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
+If R returns a non-zero exit code, it is probably that the server receiving WebGet's HTTP request returned a non-200 HTTP response code. To check the response code, try looking in your command line. If it's HTTP 200 + exit code ≠ 0, then the problem is generic and it is something wrong with WebGet, so you should report it using [هذه الصفحة](https://github.com/Tyler887/WebGet/issues/new?template=bug_report.md).
 
 ## تثبيت
 
