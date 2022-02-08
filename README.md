@@ -9,9 +9,10 @@ The implementation to quickly download files from the web, in a short time.
 
 Written in R, complete simple. It takes a short time, simply good. Use WebGet to doenload files from the world wide web.
 
-I assume **no warranty** for any **copyrighted material** downloaded on WebGet.
+For GnuBot use only. Download [the other root version](https://github.com/Tyler887/WebGet) for other use cases.
 
-I usally recommend downloading freely licensed files only.
+
+
 
 Learn more about WebGet [here](https://github.com/Tyler887/WebGet/wiki/WebGet).
 ## Requirements
@@ -29,3 +30,5 @@ If R returns a non-zero exit code, it is probably that the server receiving WebG
     * Command line: 
        * Windows: `cinst R.Project` (if Sudo is installed you can also use `sudo cinst R.Project`)
        * All other OSes: `brew install r` (you can also use `sudo brew install r`)
+
+

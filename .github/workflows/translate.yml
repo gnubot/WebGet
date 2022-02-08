@@ -33,6 +33,7 @@ jobs:
           node-version: 16.x
       - shell: pwsh
 
+
         run: |
 
           $r = Get-Random -Max 200 -Min 30
@@ -40,6 +41,9 @@ jobs:
           Start-Sleep $r
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
       - run: git pull https://github.com/${{github.repository}}.git --rebase
+
+      - run: git pull https://github.com/gnubot/WebGet.git --rebase
+
       - name: Adding README - ${{ matrix.lang }}
 
         uses: dephraiim/translate-readme@main
