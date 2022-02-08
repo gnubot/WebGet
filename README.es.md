@@ -13,7 +13,7 @@ Escrito en R, completo simple. Se tarda poco tiempo, simplemente bueno. Utilice 
 
 Solo para uso de GnuBot. Descargar[la otra versión raíz](https://github.com/Tyler887/WebGet)para otros casos de uso.
 
-Learn more about WebGet [aquí](https://github.com/Tyler887/WebGet/wiki/WebGet).
+Más información sobre WebGet[aquí](https://github.com/Tyler887/WebGet/wiki/WebGet).
 
 ## Requisitos
 
